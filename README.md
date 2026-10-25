@@ -62,6 +62,7 @@
 - **[Siemens NX](https://www.plm.automation.siemens.com/global/en/products/nx/)** - A tool for integrated design and manufacturing.
 - **[CNC Simulator Pro](https://cncsimulator.com/)** - A CNC machine simulation software.
 - **[RobotStudio](https://new.abb.com/products/robotics/robotstudio)** - A tool for robot programming and manufacturing simulation.
+- **[8D Gate PFMEA and Control Plan Link Check](https://8d-gate.vercel.app/pfmea-control-plan-link-check)** - Free browser tool that compares a PFMEA and a Control Plan (.xlsx/.csv) against 9 fixed rules; files are not uploaded.
 
 ## Robotics and Mechatronics
 
